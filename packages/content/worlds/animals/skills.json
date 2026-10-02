@@ -1,0 +1,9 @@
+[
+  {
+    "id": "pets",
+    "worldId": "animals",
+    "title": "Pets",
+    "order": 0,
+    "lessonIds": ["pets-1"]
+  }
+]

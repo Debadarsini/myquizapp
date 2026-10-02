@@ -1,0 +1,18 @@
+[
+  {
+    "id": "card-cat-mammal",
+    "worldId": "animals",
+    "prompt": "Is a cat a mammal?",
+    "teachText": "Cats are mammals. They have fur and drink milk as babies.",
+    "audioText": "Cats are mammals. They have fur and drink milk as babies.",
+    "tags": ["pets", "mammals"]
+  },
+  {
+    "id": "card-dog-pet",
+    "worldId": "animals",
+    "prompt": "Which of these is a pet that lives with people?",
+    "teachText": "Dogs live with people as pets. They are mammals too.",
+    "audioText": "Dogs live with people as pets.",
+    "tags": ["pets"]
+  }
+]

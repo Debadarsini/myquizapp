@@ -1,0 +1,11 @@
+{
+  "name": "wonderpath",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "dev": "pnpm --filter @wonderpath/whatsapp dev",
+    "test": "pnpm --filter @wonderpath/engine test",
+    "content:check": "pnpm --filter @wonderpath/content check",
+    "typecheck": "pnpm -r typecheck"
+  }
+}

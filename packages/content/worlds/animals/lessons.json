@@ -1,0 +1,8 @@
+[
+  {
+    "id": "pets-1",
+    "skillId": "pets",
+    "itemIds": ["pets-tf-cat", "pets-mcq-dog"],
+    "unlockAfter": null
+  }
+]

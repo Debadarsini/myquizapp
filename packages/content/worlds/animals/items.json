@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pets-tf-cat",
+    "kind": "tf",
+    "cardId": "card-cat-mammal",
+    "choices": ["True", "False"],
+    "correct": "True"
+  },
+  {
+    "id": "pets-mcq-dog",
+    "kind": "mcq",
+    "cardId": "card-dog-pet",
+    "choices": ["Dog", "Shark", "Eagle", "Whale"],
+    "correct": "Dog"
+  }
+]
